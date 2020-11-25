@@ -173,7 +173,6 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
-  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -190,7 +189,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u8BE5\u529F\u80FD\u662F\u5728\u6A21\u578B\u4E0A\u52A0\u6807\u7B7E\u7684\u529F\u80FD\uFF0C\u81EA\u5E26UI\u4F18\u5148\u663E\u793A\u7684Shader\u3002\u7528\u4E8E\u4E0D\u80FD\u62C6\u5206\u6444\u50CF\u673A\u7684\u5730\u65B9\u3002\u6BD4\u5982VR,AR."
+  m_Text: "\u8BE5\u529F\u80FD\u662F\u5728\u6A21\u578B\u4E0A\u52A0\u6807\u7B7E\u7684\u529F\u80FD\uFF0C\u81EA\u5E26UI\u4F18\u5148\u663E\u793A\u7684Shader\u3002\u7528\u4E8E\u4E0D\u80FD\u62C6\u5206\u6444\u50CF\u673A\u7684\u5730\u65B9\u3002"
 --- !u!222 &59441140
 CanvasRenderer:
   m_ObjectHideFlags: 0
